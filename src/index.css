@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.riffad {
+  background-color: #64A8CD;
+}
